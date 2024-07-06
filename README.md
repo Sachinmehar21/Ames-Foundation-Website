@@ -23,17 +23,17 @@ Ames Foundation Clone is a dynamic web application inspired by the design princi
 
 3. Navigate through the sections using horizontal scroll and explore the interactive elements and animations.
 
- #Features
-##Scroll-Driven Animations
+# Features
+## Scroll-Driven Animations
 - Horizontal Scrolling: Implementing smooth horizontal scrolling effects with Locomotive Scroll library.
 - Text Highlighting: Dynamically highlighting text elements as users scroll through the content, enhancing readability and focus.
 GSAP Animations: Utilizing GSAP (GreenSock Animation Platform) for fluid and captivating animations throughout the interface.
-##Responsive Design
+## Responsive Design
 - Adaptive Layout: Ensuring seamless usability across various devices and screen sizes.
 - Interactive Elements: Incorporating interactive components to encourage user engagement and exploration.
-33Modern Web Technologies
-HTML, CSS, JavaScript: Core technologies for building a robust frontend interface.
-Locomotive Scroll: Enhancing scrolling behavior with smooth transitions and precise control.
+## Modern Web Technologies
+- HTML, CSS, JavaScript: Core technologies for building a robust frontend interface.
+- Locomotive Scroll: Enhancing scrolling behavior with smooth transitions and precise control.
 GSAP (GreenSock Animation Platform): Leveraging GSAP for advanced animations and effects, adding depth and dynamism to the user experience.
 
 ## Contributing
