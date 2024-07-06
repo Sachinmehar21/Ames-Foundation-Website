@@ -12,7 +12,7 @@ Ames Foundation Clone is a dynamic web application inspired by the design princi
  • Usage
  • Contact
 
-## Installation
+# Installation
 
 1. Clone the repo
 
@@ -36,7 +36,7 @@ GSAP Animations: Utilizing GSAP (GreenSock Animation Platform) for fluid and cap
 - Locomotive Scroll: Enhancing scrolling behavior with smooth transitions and precise control.
 GSAP (GreenSock Animation Platform): Leveraging GSAP for advanced animations and effects, adding depth and dynamism to the user experience.
 
-## Contributing
+# Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -68,7 +68,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-## Contact
+# Contact
 
 Sachin Mehar - Sachinmehar21@gmail.com
 
