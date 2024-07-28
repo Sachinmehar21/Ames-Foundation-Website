@@ -1,7 +1,6 @@
 # Ames Foundation Clone
-https://join.ames-foundation.com/en
 
-Ames Foundation Clone is a dynamic web application inspired by the design principles of Ames Foundation, showcasing a blend of modern frontend technologies and creative animations. Built with HTML, CSS, and JavaScript, the project incorporates advanced features such as horizontal scrolling using Locomotive Scroll, text highlighting based on scroll position, and engaging GSAP animations to enhance user interaction and visual appeal.
+Ames Foundation Clone is a dynamic web application inspired by the design principles of Ames Foundation, showcasing a blend of modern frontend technologies and creative animations. Built with HTML, CSS, and JavaScript, the project incorporates advanced features such as horizontal scrolling using Locomotive Scroll, text highlighting based on scroll position, and engaging GSAP animations to enhance user interaction and visual appeal.This project is clone of https://join.ames-foundation.com/en
 
 - **hosted on**: https://sachinmehar21.github.io/Ames-Foundation-Website/
 
